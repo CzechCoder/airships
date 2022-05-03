@@ -146,7 +146,7 @@ export function TopSection() {
   return (
     <TopSectionContainer>
       <LeftContainer>
-        <Slogan>Rent the best airships with us!</Slogan>
+        <Slogan>Rent the best airships with us.</Slogan>
         <Description>
           Have you ever dreamt of being among the birds in the sky, anytime at
           your leisure? With us you can keep your head in the clouds long as you
